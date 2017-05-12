@@ -1,0 +1,9 @@
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Fabric.Plugin.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Web.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.exe
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.pdb
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.exe
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.pdb
